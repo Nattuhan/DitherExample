@@ -1,7 +1,9 @@
 # DitherExample
+Unity 2020.3.25f1にて実装 
+
 unity1week共有会向けに用意した、ディザを利用したシェーダーのサンプル集です。  
 
-Releacesから.unitypackageをダウンロードできます。  
+Releasesから.unitypackageをダウンロードできます。  
 
 https://github.com/Nattuhan/DitherExample/releases/tag/1.0  
 
